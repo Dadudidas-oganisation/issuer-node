@@ -6,7 +6,7 @@
     "ajv-formats": "^2.1.1",
     "ajv-formats-draft2019": "^1.6.1",
     "antd": "^5.6.4",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "copy-to-clipboard": "^3.3.3",
     "dayjs": "^1.11.9",
     "js-sha3": "^0.8.0",
